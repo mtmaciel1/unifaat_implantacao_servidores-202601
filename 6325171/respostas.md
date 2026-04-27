@@ -18,6 +18,7 @@ B) docker service ps web-escalavel
 A) docker service scale web-escalavel=5
 B) Essa capacidade é chamada de alta disponibilidade, pois o Swarm garante que os serviços continuem rodando mesmo em caso de falhas de nós.
 
+# Tarefa Prática
 
 
 
